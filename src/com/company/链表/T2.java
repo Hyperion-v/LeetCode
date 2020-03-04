@@ -1,13 +1,7 @@
-package com.company;
+package com.company.链表;
 
 
-import java.math.BigInteger;
-import java.util.Objects;
-
-import static sun.swing.MenuItemLayoutHelper.max;
-
-
- class T2 {
+class T2 {
      public static class ListNode {
          int val;
          ListNode next;
