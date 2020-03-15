@@ -1,4 +1,4 @@
-package com.company;
+package com.example.demo;
 
 //94. 二叉树的中序遍历
 

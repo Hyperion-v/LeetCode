@@ -1,8 +1,7 @@
-package com.company.lock;
+package com.example.demo.lock;
 
 import java.util.Arrays;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class aqs extends AbstractQueuedSynchronizer {
 
